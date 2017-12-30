@@ -9,7 +9,7 @@ Redditの投稿記事タイトルをGoogleTranslateで翻訳するためのリ�
 2. TampermonkeyにScriptをコピーアンドペースト  
 3. [Reddit](https://www.reddit.com/)にアクセスする
 4. 右下のtranslateリンクをClick 
-5. *Enjoy Hacker News!*  
+5. *Enjoy Reddit!*  
 
 ### 必要なブラウザプラグライン
 [Tampermonkey](http://tampermonkey.net/)
